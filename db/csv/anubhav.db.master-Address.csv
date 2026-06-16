@@ -1,2 +1,11 @@
 ID,street,city,state,pincode,country,bp_id
-ADDR001,MG Road,Mumbai,Maharashtra,400001,India,
+ADDR001,Powai Road,Mumbai,Maharashtra,400001,India,BP001
+ADDR002,Hinjewadi Phase 1,Pune,Maharashtra,411001,India,BP002
+ADDR003,Sector 18,Noida,Uttar Pradesh,201301,India,BP003
+ADDR004,Whitefield,Bengaluru,Karnataka,560066,India,BP004
+ADDR005,OMR Road,Chennai,Tamil Nadu,600001,India,BP005
+ADDR006,Gachibowli,Hyderabad,Telangana,500001,India,BP006
+ADDR007,Salt Lake,Kolkata,West Bengal,700001,India,BP007
+ADDR008,SG Highway,Ahmedabad,Gujarat,380001,India,BP008
+ADDR009,MI Road,Jaipur,Rajasthan,302001,India,BP009
+ADDR010,Hazratganj,Lucknow,Uttar Pradesh,226001,India,BP010
