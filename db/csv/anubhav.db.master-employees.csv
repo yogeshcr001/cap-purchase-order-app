@@ -1,0 +1,2 @@
+ID,validFrom,validTo,nameFirst,nameMiddle,nameLast,nameInitials,sex,language,phoneNumber,email,loginName,Currency_code,salaryAmount,accountNumber,bankId,bankName
+EMP001,2025-01-01,9999-12-31,Yogesh,K,Patil,YKP,M,E,9876543210,yogesh@test.com,YOGESH01,INR,75000,1234567890123456,HDFC001,HDFC Bank
